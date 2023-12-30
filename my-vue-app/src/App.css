@@ -1,0 +1,188 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.nav{
+    background-color: rgb(250, 248, 248);
+    padding: 8px;
+}
+
+.button{
+    color: white;
+    border: none;
+    border-radius: 5px;
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 2px;
+   padding-bottom: 2px;
+}
+
+.btn1{
+   padding-left: 8px;
+   padding-right: 8px;
+    border-radius: 5px;
+    cursor: pointer;
+ 
+}
+
+.heroic-background{
+    background-image: url("./assets/bg-masthead.jpg");
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.heroic-text{
+    padding-top: 100px;
+    text-align: center;
+    color: white;
+}
+
+.heroic-data{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.heroic-input{
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    width: 300px;
+    margin-right: 10px;
+    margin-top: 20px;
+    outline: none;
+}
+
+.heroic-btn{
+    padding: 5px;
+    margin-top: 20px;
+
+}
+
+/* //Heroic_section_02 */
+
+
+.heroic-section-2{
+    padding-top: 50px;
+    text-align: center;
+    background-color: rgb(250, 248, 248);
+}
+
+.showcase-text1{
+    padding-top: 50px;
+    margin-top: 50px;
+    font-size: small;
+    margin-left: 70px;
+
+}
+
+.showcase-img{
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-left: 30px;
+}
+
+.showcase-img2{
+    width: 690px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+}
+
+.showcase-text2{
+    padding-top: 50px;
+    margin-top: 50px;
+    font-size: small;
+    margin-left: 90px;
+
+}
+
+.showcase-img3{
+    width: 600px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-left: 30px;
+}
+
+.heroic_section_6{
+    background-color: rgb(250, 248, 248);
+
+}
+.heroic_section_txt{
+    padding-top: 50px;
+}
+
+.text{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.testi-image{
+width: 100px;
+border-radius: 50%;
+}
+
+.testi-image2{
+    width: 100px;
+    border-radius: 50%;
+
+    }
+
+    .testi-image3{
+        width: 100px;
+        border-radius: 50%;
+        }
+
+
+
+        .testimonial{
+            margin-left: 100px;
+text-align: center;
+        }
+
+        .testimonial2{
+            margin-left: 2px;
+            text-align: center;
+
+
+        }
+
+        .testimonial3{
+            text-align: center;
+            /* margin-left: -120px; */
+
+        }
+
+        .section-7{
+            background-image: url("./assets/bg-masthead.jpg");
+            width: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            width: 300px;
+padding-bottom: 80px;
+opacity: -10px;
+
+        }
+
+
+
+.Heroic_section_8{
+    background-color: rgb(250, 248, 248);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    
+}
